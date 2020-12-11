@@ -6,61 +6,61 @@
 		"product_url": "https://file-tracker.cubiclesoft.com/"
 	},
 	"files": {
-		"FileTracker-1.0.10.exe": {
-			"version": "1.0.10",
+		"FileTracker-1.1.0.exe": {
+			"version": "1.1.0",
 			"os": "windows",
 			"os_disp": "Windows",
 			"installer": "exe",
 			"32bit": true,
 			"64bit": true,
-			"url": "https://file-tracker.cubiclesoft.com/product-support/download/v1/FileTracker-1.0.10.exe",
-			"size": 5037676,
-			"md5": "7d17d2335b7a95e350c01415254cf29e",
-			"sha1": "1bd40272885f27daf738d35022d6e726e530caca",
-			"sha256": "b491362e8b2a0b7856b109fc1d3cc57872c8bb82052d2accf8e87ecb1a09090b",
-			"sha512": "bccbcbe92b2d7848a46eb5d292c5d5a3fca99e1ef4eecb3019ca9e91aeaa9bfc071892c057d3f4043e3a15b5888a47531410d9e96c76e34cf68ec78060b88bd8"
+			"url": "https://file-tracker.cubiclesoft.com/product-support/download/v1/FileTracker-1.1.0.exe",
+			"size": 5038284,
+			"md5": "71fafa8a844425133cdac64f342a168c",
+			"sha1": "68adaf947e539201eaef9dee992ca6e7179b75bf",
+			"sha256": "0c08c3ccbf55682b8e08a6d30aa7e8cf204a2e4d80eb90265c50f26024436af7",
+			"sha512": "79c863161de1b6022f10b522656e4d82b72d8edd52c06db88cce46983bcc9bae7f1eaf953e750eb697daefd759aea852b067b2e7631c171888720fc407d1a4ac"
 		},
-		"FileTracker-1.0.10.msi": {
-			"version": "1.0.10",
+		"FileTracker-1.1.0.msi": {
+			"version": "1.1.0",
 			"os": "windows",
 			"os_disp": "Windows",
 			"installer": "msi",
 			"32bit": true,
 			"64bit": true,
-			"url": "https://file-tracker.cubiclesoft.com/product-support/download/v1/FileTracker-1.0.10.msi",
-			"size": 5267456,
-			"md5": "d77899666037e3a48d217f9ed64c2fed",
-			"sha1": "408d8f11eadbabdfe876198f4949807161abb055",
-			"sha256": "b8032e1c8824d374d6ae895c4e6fec25252ffaed5d7142ecde88d517a8c5280c",
-			"sha512": "99b18cfae0e4e291edb0c90ddc5ef46345678eeb25246f28ec9825ab8e3072970da827b1fe0adf1165a31379fdcd3fce0de900647ad85be9da5f4680a4daa24f"
+			"url": "https://file-tracker.cubiclesoft.com/product-support/download/v1/FileTracker-1.1.0.msi",
+			"size": 5271552,
+			"md5": "b8a319c6126e147d7219caada69e5a37",
+			"sha1": "e41663e29138faf96fc781b81e995aa6e92045af",
+			"sha256": "773e7ca8a4a54695f29acb41ce7ecb8735d6cf958be1474a103877d811fa334d",
+			"sha512": "74ec89f2eb6eada1b3f078d970cff0f7db72acf16d9564afca96ef399c640cd8b50f9c315487275449283f7d182e5589174459e7913395474028691f7aecc00d"
 		},
-		"FileTracker-1.0.10-osx.tar.gz": {
-			"version": "1.0.10",
+		"FileTracker-1.1.0-osx.tar.gz": {
+			"version": "1.1.0",
 			"os": "osx",
 			"os_disp": "Mac OSX",
 			"installer": "tar-gz",
 			"32bit": true,
 			"64bit": true,
-			"url": "https://file-tracker.cubiclesoft.com/product-support/download/v1/FileTracker-1.0.10-osx.tar.gz",
-			"size": 694302,
-			"md5": "4551c99aeb2ec613b3c375d0ec581fc4",
-			"sha1": "c880d44a13a96ab1fd131a997c10df416721b023",
-			"sha256": "7e5185d463b9a0d6646d468082766db9c7547c1d6a4ae1d2a6c0db253b0cee35",
-			"sha512": "c4d89ee147d8eff526719e7d3dbc973fb0f9bcbd2bfd2df331f7ad44d38f2cc19dc6507d21d0199098d2a657d46912c85b395196eeea2cf913a4c0eff9cbdf88"
+			"url": "https://file-tracker.cubiclesoft.com/product-support/download/v1/FileTracker-1.1.0-osx.tar.gz",
+			"size": 694631,
+			"md5": "5c3173c72e11f0892ecc6b43a6b75775",
+			"sha1": "849ca63dae56cc290c8956fcad43095aedaf9fa9",
+			"sha256": "bfe2a12be4bd089c0183c05db1d6986f68d0e1f623b845ae8684beb47dab21f0",
+			"sha512": "73f35f772d8944d8a097b0fa8ce451272151c62fd7e4dacc958426df86976924f1a147257f0a9ed3f4f0b5c9cd770e21ced3a5ef4c99f04b091d721daae3723c"
 		},
-		"FileTracker-1.0.10-linux.tar.gz": {
-			"version": "1.0.10",
+		"FileTracker-1.1.0-linux.tar.gz": {
+			"version": "1.1.0",
 			"os": "linux",
 			"os_disp": "Linux",
 			"installer": "tar-gz",
 			"32bit": true,
 			"64bit": true,
-			"url": "https://file-tracker.cubiclesoft.com/product-support/download/v1/FileTracker-1.0.10-linux.tar.gz",
-			"size": 517040,
-			"md5": "7e947d6abbbd1162f10a9d36a33b14f8",
-			"sha1": "c7933f950f4132da4c1a6672ddb426195fcebb4b",
-			"sha256": "ffd468bbed1b7819046218a66cb97d083e115678be2e8003084e000802170b77",
-			"sha512": "a52ece701b1eb89d3cec7dcb1286eb7487f189fcbd76e7d28d467bf7d3721066524b1f9a31174915a000f2b577d2359280aaba5f72c570fc7dc595251f94bfb7"
+			"url": "https://file-tracker.cubiclesoft.com/product-support/download/v1/FileTracker-1.1.0-linux.tar.gz",
+			"size": 517873,
+			"md5": "fe240df51ef63d60d3c99490486e7c36",
+			"sha1": "6f4e426d2298c3bd21ce3ef37f85331967741b85",
+			"sha256": "539d433d50564b05697789172403ba4db61e7e7cc5b3ceea5cc814f554b9025a",
+			"sha512": "5fa4832f2ddf0ba5ee5001ed8245e4730b7030351eee0d951355624093779a4cf1491963914586fa94b6b095b1606d20c0517a14880f413ed549c1156116d311"
 		}
 	}
 }
